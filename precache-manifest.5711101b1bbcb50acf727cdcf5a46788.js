@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5a031ffe2f1bc95af8f54b2262b4bc7d",
+    "revision": "24450fbcd3bd92d889767da0cd1d61ce",
     "url": "/mobius2/index.html"
   },
   {
-    "revision": "92e3e5fb02184199f313",
-    "url": "/mobius2/static/css/main.e3784c75.chunk.css"
+    "revision": "e4eac488a7b72142dce3",
+    "url": "/mobius2/static/css/main.e73e2113.chunk.css"
   },
   {
     "revision": "e4562295f83b41d75577",
     "url": "/mobius2/static/js/2.85d05ed1.chunk.js"
   },
   {
-    "revision": "92e3e5fb02184199f313",
+    "revision": "e4eac488a7b72142dce3",
     "url": "/mobius2/static/js/main.46906ebc.chunk.js"
   },
   {

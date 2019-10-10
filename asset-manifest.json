@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mobius2/static/css/main.e0c8f94a.chunk.css",
+    "main.css": "/mobius2/static/css/main.e3784c75.chunk.css",
     "main.js": "/mobius2/static/js/main.46906ebc.chunk.js",
     "main.js.map": "/mobius2/static/js/main.46906ebc.chunk.js.map",
     "runtime-main.js": "/mobius2/static/js/runtime-main.626ff197.js",
@@ -8,14 +8,14 @@
     "static/js/2.85d05ed1.chunk.js": "/mobius2/static/js/2.85d05ed1.chunk.js",
     "static/js/2.85d05ed1.chunk.js.map": "/mobius2/static/js/2.85d05ed1.chunk.js.map",
     "index.html": "/mobius2/index.html",
-    "precache-manifest.2888d51d533195a533098eed33b6bd82.js": "/mobius2/precache-manifest.2888d51d533195a533098eed33b6bd82.js",
+    "precache-manifest.816b92b737303094639ccf959e38973f.js": "/mobius2/precache-manifest.816b92b737303094639ccf959e38973f.js",
     "service-worker.js": "/mobius2/service-worker.js",
-    "static/css/main.e0c8f94a.chunk.css.map": "/mobius2/static/css/main.e0c8f94a.chunk.css.map"
+    "static/css/main.e3784c75.chunk.css.map": "/mobius2/static/css/main.e3784c75.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.626ff197.js",
     "static/js/2.85d05ed1.chunk.js",
-    "static/css/main.e0c8f94a.chunk.css",
+    "static/css/main.e3784c75.chunk.css",
     "static/js/main.46906ebc.chunk.js"
   ]
 }
